@@ -1,7 +1,7 @@
 # Pairing Checkin
 ## This is for the dry run of your pairing sessions
 
-test this
+test this - done!
 
 ljrngelr - A
 The sun is shining!  (that's bright) -- Driver Erik
