@@ -2,7 +2,11 @@
 ## This is for the dry run of your pairing sessions
 
 test this - done!
+<<<<<<< HEAD
+I want one exclaimation point!
+=======
 I want two exclaimation points!!
+>>>>>>> 2a66a5b0d98b8829a9d28f5dfce80f98e2ec2b66
 
 ljrngelr - A
 The sun is shining!  (that's bright) -- Driver Erik

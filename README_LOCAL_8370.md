@@ -2,7 +2,7 @@
 ## This is for the dry run of your pairing sessions
 
 test this - done!
-I want two exclaimation points!!
+I want one exclaimation point!
 
 ljrngelr - A
 The sun is shining!  (that's bright) -- Driver Erik
